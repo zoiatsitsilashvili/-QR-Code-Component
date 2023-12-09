@@ -1,7 +1,7 @@
 # -QR-Code-Component
 Created with CodeSandbox
 
-# Frontend Mentor - QR code component solution
+## Frontend Mentor - QR code component solution
 
 
 ## Table of contents
